@@ -1,0 +1,80 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+}
+
+.upper-section {
+    float: left;
+    height: 100%;
+    width: 60%;
+    background-color: rgb(248, 241, 247);
+}
+.lower-section {
+    float: left;
+    height: 100%;
+    width: 40%;
+    background-color: rgb(248, 241, 247);
+}
+
+.logo {
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.coming-soon {
+    margin-top: 110px;
+    margin-left: 100px;
+    font-size: 3.5rem;
+    font-weight: 50;
+    letter-spacing: 25px;
+    line-height: 60px;
+    color: rgb(163, 97, 119);
+    font-family: 'Josefin Sans', sans-serif;
+}
+span {
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(41, 39, 39);
+    font-weight: 600;
+
+
+}
+.explaination {
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 300px;
+    letter-spacing: 0.9px;
+    font-size: 14px;
+    color:rgb(136, 104, 136);
+    line-height: 23px;
+    font-weight: 200;
+    
+}
+.email {
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-bottom: 200px;
+    height: 3rem;
+    width: 350px;
+    padding: 10px 20px;
+    border-radius: 25px;
+    border-color:rgb(233, 199, 195) ;
+    border-width: thin 0.4px;
+    background-color: rgb(248, 241, 247); ;
+}
+
+button {
+    background-color:rgb(248, 146, 139);
+    color: white;
+    height: 3.2rem;
+    width: 90px;
+    border-radius: 25px;
+    font-size: 1.3rem;
+    margin-top: 10px;
+    margin-left: -75px;
+    border-width: thin;
+}
